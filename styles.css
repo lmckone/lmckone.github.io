@@ -1,13 +1,23 @@
-@import url("https://fonts.googleapis.com/css?family=Lora|Proxima+Nova:700");
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Catamaran");
 
 body {
-    background-color: #ffffff;
+	background-color: #000000;
+	padding-left:  100px;
+	padding-top:  50px;
 }
 h1 {
-    color: #58585b;
-    font-family: 'Lora';
+	background-color: #e6ecd7;
+	margin-top:25px;
+	margin-bottom:12.5px;
+	color: #000000;
+	Font-Family: 'Cormorant Garamond', Serif;
+	Font-Size: 55px;
+
 }
 p {
-    color: #d2d2d2;
-    font-family: 'Proxima Nova';
+	background-color: #e6ecd7;
+	color: #000000;
+	Font-Family: 'Catamaran', Sans-Serif;
+	Font-Size: 15px;
 }
+
