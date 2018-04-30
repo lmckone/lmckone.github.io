@@ -1,10 +1,31 @@
-@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Catamaran");
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Lato");
 
 body {
-	background-color: #000000;
+	background-color: #fffff;
 	padding-left:  100px;
-	padding-top:  50px;
+	padding-top:  50px
 }
+
+body .container .overlay{
+	background-color: #ffffff;
+	padding-left:  0px;
+}
+
+body a{
+	margin-right: 25px;
+	display: inline;
+	text-decoration:none;
+	background-color: #000000;
+	padding-right:  30px;
+	padding-left:  30px;
+	color: #ffffff;
+	Font-Family: 'Cormorant Garamond', Serif;
+	Font-Size: 20px;
+}
+body a:hover{
+	color:#58585b
+	}
+
 h1 {
 	background-color: #e6ecd7;
 	margin-top:25px;
@@ -12,12 +33,24 @@ h1 {
 	color: #000000;
 	Font-Family: 'Cormorant Garamond', Serif;
 	Font-Size: 55px;
-
+}
+h2 {
+	color: #000000;
+	Font-Family: 'Cormorant Garamond', Serif;
+	Font-Size: 35px;
+}
+h3 {
+	font-family:"Lato",sans-serif;
+	font-size:18px;
+	font-weight:300;
+	margin:10px 0 10px 0;
+	line-height:1.4
 }
 p {
-	background-color: #e6ecd7;
-	color: #000000;
-	Font-Family: 'Catamaran', Sans-Serif;
-	Font-Size: 15px;
+	font-family:"Lato",sans-serif;
+	font-size:18px;
+	font-weight:300;
+	margin:10px 0 10px 0;
+	line-height:1.4
 }
 
