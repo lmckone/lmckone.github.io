@@ -8,7 +8,7 @@ body {
 
 body .container .overlay{
 	background-color: #000000;
-	padding-left:  0px;
+	padding-left:  50px;
 }
 
 body a{
@@ -18,12 +18,12 @@ body a{
 	text-decoration:none;
 	padding-right:  30px;
 	padding-left:  30px;
-	Font-Family: 'Fira Sans', sans-serif;
+	Font-Family: 'Roboto Mono';
 	Font-Size: 20px;
 }
 body a:hover{
 	background-color:#623cea;
-	color:#ffffff;
+	color:#bccce0;
 	}
 
 h1 {
@@ -35,18 +35,18 @@ h1 {
 }
 h2 {
 	color: #ffffff;
-	Font-Family: 'Fira Sans', sans-serif;
+	Font-Family: 'Roboto Mono', sans-serif;
 	Font-Size: 35px;
 }
 h3 {
-	font-family:"Fira Sans",sans-serif;
+	font-family:"Roboto Mono",sans-serif;
 	font-size:18px;
 	font-weight:300;
 	margin:10px 0 10px 0;
 	line-height:1.4
 }
 p {
-	font-family:"Fira Sans",sans-serif;
+	font-family:"Roboto Mono",sans-serif;
 	font-size:18px;
 	font-weight:300;
 	margin:10px 0 10px 0;
