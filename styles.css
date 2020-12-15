@@ -8,7 +8,7 @@ body {
 
 body .container .overlay{
 	background-color: #000000;
-	padding-left:  50px;
+	padding-left:  30px;
 }
 
 body a{
@@ -32,24 +32,30 @@ h1 {
 	color: #ffffff;
 	font-family: 'Roboto Mono', serif;
 	font-size: 55px;
+	padding-left:  30px;
 }
 h2 {
 	color: #ffffff;
 	Font-Family: 'Roboto Mono', sans-serif;
 	Font-Size: 35px;
+	padding-left:  30px;
 }
 h3 {
+	baackground-color:#bccce0
 	font-family:"Roboto Mono",sans-serif;
 	font-size:18px;
 	font-weight:300;
 	margin:10px 0 10px 0;
+	padding-left:  30px;
 	line-height:1.4
 }
 p {
+	background-color:#bccce0
 	font-family:"Roboto Mono",sans-serif;
 	font-size:18px;
 	font-weight:300;
 	margin:10px 0 10px 0;
+	padding-left:  30px;
 	line-height:1.4
 }
 
